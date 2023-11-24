@@ -1,0 +1,113 @@
+.main{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.products{
+    width: 1200px;
+    /* margin: 0 auto; */
+    /* border: 1px solid; */
+    flex-wrap: wrap;
+    display: flex;
+    gap: 30px;
+}
+.categ{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+.card{
+    width: 277.5px;
+    height: 400px;
+    cursor: pointer;
+}
+.card-title{
+    color: black;
+}
+.card-desc{
+    font-size: 12px;
+}
+.btn{
+    /* position: absolute; */
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    border: var(--border);
+    margin-top: 80px;
+    padding: 50px 0px 50px 0px;
+    background: #262a2c;
+    display: flex;
+    justify-content: space-around;
+  }
+  li{
+    background: #262a2c;
+  }
+  ul{
+    background: #262a2c;
+  }
+  footer img{
+    background: #262a2c;
+  }
+  footer div{
+    background: #262a2c;
+  }
+  .footer-item1 {
+    color: white;
+    margin-top: 15px;
+    background: #262a2c;
+  }
+  .payments div {
+    display: flex;
+    background: #262a2c;
+  }
+  .payments div img {
+    display: flex;
+    margin: 0px 30px 15px 0px;
+    background: #262a2c;
+  }
+  .footer-text {
+    color: white;
+    margin-bottom: 20px;
+    background: #262a2c;
+  }
+  .icons {
+    display: flex;
+    justify-content: space-around;
+  }
+  .facebook {
+    color: white;
+    background: #262a2c;
+  }
+  .insta {
+    color: white;
+    background: #262a2c;
+  }
+  .telegram {
+    color: white;
+    background: #262a2c;
+  }
+  .footer-items {
+    line-height: 35px;
+    background: #262a2c;
+  }
+  .footer-items a {
+    color: rgb(186, 185, 185);
+    background: #262a2c;
+  }
+  .footer-items a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    background: #262a2c;
+  }
+

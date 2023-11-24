@@ -1,0 +1,35 @@
+.main{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.products{
+    width: 1200px;
+    /* margin: 0 auto; */
+    /* border: 1px solid; */
+    flex-wrap: wrap;
+    display: flex;
+    gap: 30px;
+}
+.categ{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+.card{
+    width: 277.5px;
+    height: 400px;
+    cursor: pointer;
+}
+.card-title{
+    color: black;
+}
+.card-desc{
+    font-size: 12px;
+}
+.btn{
+    /* position: absolute; */
+    color: black;
+}

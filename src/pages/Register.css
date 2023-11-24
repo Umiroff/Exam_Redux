@@ -1,0 +1,46 @@
+.form_register {
+    border: var(--border);
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form_register div {
+    /* border: var(--border); */
+    text-align: center;
+}
+.form_register input {
+    text-align: center;
+    width: 400px;
+    margin-top: 10px;
+    height: 50px;
+    border: 0px;
+    background: whitesmoke;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.form_register .reg-btn {
+    width: 300px;
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 30px;
+    border: 0px;
+    background: #000;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.form_register p {
+    font-size: 12px;
+    margin-top: 15px;
+}
+.form_register p span {
+    color: blueviolet;
+}
+  .form_register input::placeholder {
+    font-size: 30px;
+}
+.btn-sign {
+    width: 300px;
+}
